@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning "MERN" stack developer 
 - 💬 Ask me about ReactJS, NextJS, ExpressJS, NodeJS, Mongoose
 - 📫 How to reach me ondershin@gmail.com
-- 📄 Know about my experiences  <a href="https://ondersahin.com.tr" target="blank">[ondersahin.com.tr](ondersahin.com.tr)</a>
+- 📄 Know about my experiences  <a href="https://ondersahin.com.tr" target="blank">ondersahin.com.tr</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
