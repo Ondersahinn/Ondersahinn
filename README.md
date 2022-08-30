@@ -2,9 +2,6 @@
 
 
 <p align="justfy">I am continuing my software journey, which I started by studying Informatics in vocational high school, now as a ReactJS Developer. After successfully completing the Software Engineering field at Fırat University, I developed various projects in e-commerce company using technologies such as React, TypeScript, and Redux. I am currently working as a ReactJS Developer in Türk Telekom Yaay project. I continue to develop myself as a MERN Stack in my spare time.</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ondersahinn&label=Profile%20views&color=000000&style=flat" alt="Ondersahinn" />
-</p> 
 
 - 🔭 I’m currently working on public "E-Commerce" developer with nextjs, react js and mongoose,  "Yaay" social media organization developer 
 - 🌱 I’m currently learning "MERN" stack developer 
@@ -44,5 +41,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ondersahinn&label=Profile%20views&color=000000&style=flat" alt="Ondersahinn" />
+</p> 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ondersahinn&show_icons=true&theme=dark&locale=en&count_private=true" alt="Ondersahinn" />
 </p>
