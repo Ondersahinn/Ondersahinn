@@ -1,7 +1,7 @@
 ### Hi there I am Önder Şahin 👋
 
 
-<p align="justfy">I am continuing my software journey, which I started by studying Informatics in vocational high school, now as a ReactJS Developer. After successfully completing the Software Engineering field at Fırat University, I developed various projects in e-commerce company using technologies such as React, TypeScript, and Redux. I am currently working as a ReactJS Developer in Türk Telekom Yaay project. I continue to develop myself as a MERN Stack in my spare time.</p>
+<p style="font-size: 14px;line-height: 23px;">I am continuing my software journey, which I started by studying Informatics in vocational high school, now as a ReactJS Developer. After successfully completing the Software Engineering field at Fırat University, I developed various projects in e-commerce company using technologies such as React, TypeScript, and Redux. I am currently working as a ReactJS Developer in Türk Telekom Yaay project. I continue to develop myself as a MERN Stack in my spare time.</p>
 
 - 🔭 I’m currently working on public "E-Commerce" developer with nextjs, react js and mongoose,  "Yaay" social media organization developer 
 - 🌱 I’m currently learning "MERN" stack developer 
